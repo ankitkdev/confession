@@ -2,7 +2,7 @@
 
 //Connect to MySQl
 
-$con =mysqli_connect('localhost','root','Ankit@246','messageapp');
+$con =mysqli_connect('localhost','root','','messageapp');
 
 //test Connection
 
